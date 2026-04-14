@@ -1,0 +1,17 @@
+2024-04-14 08:00:01 INFO: System startup complete.
+2024-04-14 08:05:23 INFO: User 'admin' logged in from 192.168.1.10.
+2024-04-14 08:10:45 ERROR: Database connection timeout on secondary node.
+2024-04-14 08:12:12 INFO: Routine backup started.
+2024-04-14 08:15:30 FAILED LOGIN: Invalid password for user 'guest' from 203.0.113.5.
+2024-04-14 08:16:05 FAILED LOGIN: Invalid password for user 'guest' from 203.0.113.5.
+2024-04-14 08:16:45 FAILED LOGIN: Invalid username 'root' from 10.0.0.55.
+2024-04-14 08:20:00 INFO: Routine backup completed successfully.
+2024-04-14 08:22:18 CRITICAL: Kernel panic detected on worker-3!
+2024-04-14 08:25:55 ERROR: Failed to sync files to S3 bucket 'ops-logs'.
+2024-04-14 08:30:10 INFO: CPU usage at 45%.
+2024-04-14 08:35:12 FAILED LOGIN: Max attempts reached for user 'ops_manager' from 45.76.12.8.
+2024-04-14 08:40:05 INFO: User 'dev_user' logged in.
+2024-04-14 08:45:33 ERROR: Memory leak detected in service 'api-gateway'.
+2024-04-14 08:50:00 CRITICAL: Power failure in Rack 4 - switching to UPS.
+2024-04-14 08:55:10 INFO: Thermal check passed.
+2024-04-14 09:00:00 INFO: Server heartbeat OK.
